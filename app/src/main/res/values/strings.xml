@@ -6,4 +6,5 @@
     -->
     <string name="hello_world">Hello Square World!</string>
     <string name="comparar">Comparar</string>
+    <string name="elige_2_numeros">Elige 2 numeros</string>
 </resources>
